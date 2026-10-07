@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "${modId}",
+    "name": "${modName}",
+    "description": "An Addon for Botania. Currently maintained by KongTai.",
+    "version": "${modVersion}",
+    "mcversion": "${minecraftVersion}",
+    "url": "https://github.com/ExtraMeteorP/Extra-Botany",
+    "updateUrl": "",
+    "authorList": ["Meteor", "KongTai", "DeepSeekAI"],
+    "credits": "Original mod by Meteor. Currently maintained by KongTai. Credits to Vazkii, SpitefulFox and others for their open source mods.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": ["required-after:Botania", "required-after:Baubles"]
+  }
+]

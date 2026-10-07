@@ -1,0 +1,805 @@
+# KNOWLEDGE
+category.Botania:extra=额外植物学
+botania.knowledge.extra=&3额外&7的知识
+botania.knowledge.legendary=&4传说&7的知识
+
+# MISC
+botaniamisc.knowledgeUnlock=白卡闪耀着异样的光芒,你手中的手册被注入了神秘的力量.
+botaniamisc.knowledgeUnlock2=恭喜你!这个D20就是你成功地击败了盖亚守护者III的证明,你已解锁了传说的知识！
+botaniamisc.bullet=弹药已用尽.
+botaniamisc.reload=上弹完毕.
+botaniamisc.gunfalse=普通模式
+botaniamisc.guntrue=连发模式
+botaniamisc.eternalmodefalse=永恒模式
+botaniamisc.eternalmodetrue=静籁模式
+botaniamisc.uselessDiceRoll=骰子停在了%s上,接着变成了奇怪的东西.
+botaniamisc.openChest=在开箱子前你得先拥有一把钥匙.
+botaniamisc.theseusmode0.desc=攻击模式
+botaniamisc.theseusmode1.desc=修复模式
+botaniamisc.theseusmode2.desc=治疗模式
+botaniamisc.theseusmode3.desc=激励模式
+botaniamisc.theseussetMode0=你已将其设置为攻击模式.
+botaniamisc.theseussetMode1=你已将其设置为修复模式.
+botaniamisc.theseussetMode2=你已将其设置为治疗模式.
+botaniamisc.theseussetMode3=你已将其设置为激励模式.
+botaniamisc.eternalsliencetrue=你已将其设置为静籁模式.
+botaniamisc.eternalsliencefalse=你已将其设置为永恒模式.
+botaniamisc.manaDisplay=魔力值
+botaniamisc.usecount=&3你已使用超过%s%次
+botaniamisc.thousandUse=你已使用超过1000次,恭喜你!一瓣彼岸花的花瓣奖励给你.
+
+# VERSION
+extrabotany.versioning.message0=不要玩守望先锋,否则你会发现一份额外植物学的更新.
+extrabotany.versioning.message1=一切都很美好,除了你还未更新额外植物学.
+extrabotany.versioning.message2=为什么会变成这样呢.....更新额外植物学本该是件美好的事情.
+extrabotany.versioning.message3=额外植物学更新了,已经没什么好害怕的了.
+extrabotany.versioning.message4=你终于找到了额外植物学的更新,我们要发财啦.
+extrabotany.versioning.message5=世界那么大,我想去看看.出发前先让我们更新一下额外植物学.
+extrabotany.versioning.message6=Minecraft并不想理你,并向你扔了一个额外植物学的更新.
+extrabotany.versioning.message7=我已认真阅读并同意该用户协议,承诺立即更新额外植物学.
+extrabotany.versioning.message8=哔哩哔哩 - ( ゜- ゜)つロ 乾杯~
+extrabotany.versioning.message9=:P 当你看到这条消息后,你知道接下来该做些什么吗?
+extrabotany.versioning.message10=如果你不点击下面的链接,迟早有一天你会感受到我的愤怒.
+extrabotany.versioning.message11=我把我所有的宝藏都藏在这次更新里,快去找到它们吧!
+
+#ITEMGROUP
+itemGroup.ExtraBotany=额外植物学
+
+#POTIONEFFECTS
+extrabotany.potion.fastparticlesorting=快速粒子归类
+extrabotany.potion.slowparticlesorting=慢速粒子排序
+extrabotany.potion.residualpain=痛觉残留
+extrabotany.potion.durance=禁锢
+extrabotany.potion.cure=治愈
+
+#ENTITIES
+entity.ExtraBotany.bulletexploding.name=高爆弹
+entity.ExtraBotany.bulletgold.name=金弹
+entity.ExtraBotany.bullethighvelocity.name=高速弹
+entity.ExtraBotany.bulletmeteor.name=陨星弹
+entity.ExtraBotany.bulletmusket.name=枪弹
+entity.ExtraBotany.bulletsilver.name=银弹
+entity.ExtraBotany.bulletsnowball.name=雪球
+entity.ExtraBotany.spear.name=神圣长矛
+entity.ExtraBotany.unbreakableitem.name=直立不动的掉落物
+entity.ExtraBotany.magiclandmine2.name=魔法地雷II
+entity.ExtraBotany.gaia3.name=盖亚守护者III
+entity.ExtraBotany.gaia3dark.name=黑暗盖亚守护者III
+entity.ExtraBotany.gaia3phantom.name=盖亚守护者III的幻影
+entity.ExtraBotany.teleportpearl.name=传送珍珠
+entity.ExtraBotany.lycorispurple.name=紫色彼岸花
+entity.ExtraBotany.lycorisred.name=红色彼岸花
+entity.ExtraBotany.lycorisgreen.name=绿色彼岸花
+
+#BLOCKS
+# -BASIC
+tile.blockelvenquartz.name=源质石英块
+tile.botania:quartzStairsElven.name=源质石英楼梯
+tile.botania:blockelvenquartz0Slab.name=源质石英台阶
+tile.blockgaiaquartz.name=盖亚石英块
+tile.botania:quartzStairsGaia.name=盖亚石英楼梯
+tile.botania:blockgaiaquartz0Slab.name=盖亚石英台阶
+
+# -TILE
+tile.botania:ancientpylon0.name=远古种族的魔力水晶
+tile.botania:ancientpylon1.name=远古种族的自然水晶
+tile.botania:ancientpylon2.name=远古种族的盖亚水晶
+tile.gaiachest.name=盖亚的宝箱
+
+#ITEMS
+# -ARMORSET
+botania.armorset.armorrelic.name=古神之力
+
+# -BASIC
+item.elvenquartz.name=源质石英
+item.gaiaquartz.name=盖亚石英
+item.prismaticshard.name=彩虹碎片
+item.gaiaessence.name=盖亚精华
+item.blankcard.name=白卡
+item.astralforce.name=星光之力
+item.petalred.name=红色彼岸花瓣
+item.petalgreen.name=绿色彼岸花瓣
+item.petalpurple.name=紫色彼岸花瓣
+item.goldstring.name=注魔金线
+item.resonancefragment.name=祈之共鸣
+item.key.name=钥匙
+item.heart.name=生命结晶
+item.mana.name=魔力结晶
+item.shield.name=护盾值
+
+# -RECORD
+item.botania:recordA.name=琪露诺的秘密唱片
+item.record.botania:A.desc=いけないボーダーライン
+item.botania:recordB.name=神秘的唱片
+item.record.botania:B.desc=崩壊世界の歌姫
+item.botania:recordC.name=U.N.OWEN的唱片
+item.record.botania:C.desc=U.N.オーエンは彼女なのか
+
+# -SPAWNCARDS
+item.ExtraBotany.SpawnCardLycorisdiataRed.name=红色彼岸花之卡
+item.ExtraBotany.SpawnLycorisRed.desc=生成一朵红色彼岸花
+item.ExtraBotany.SpawnCardLycorisdiataGreen.name=绿色彼岸花之卡
+item.ExtraBotany.SpawnLycorisGreen.desc=生成一朵绿色彼岸花
+item.ExtraBotany.SpawnCardLycorisdiataPurple.name=紫色彼岸花之卡
+item.ExtraBotany.SpawnLycorisPurple.desc=生成一朵紫色彼岸花
+item.ExtraBotany.SpawnCardLycorisdiataRandom.name=随机彼岸花之卡
+item.ExtraBotany.SpawnLycorisRandom.desc=随机生成一朵彼岸花
+
+# -ADVANCED
+item.darksword.name=暗影刀
+item.nightmarefuel.name=梦魇燃料
+item.coronaclaymore.name=日冕重剑
+item.angelwand.name=天使魔杖
+item.manapotato.name=魔力土豆
+item.botania:gaiaTablet.name=盖亚石板
+item.teleportpearl.name=传送珍珠
+item.botania:dog0.name=波动狗
+item.botania:dog1.name=波动狗
+item.botania:dog2.name=波动狗
+item.botania:dog3.name=波动狗
+item.botania:gaiawise.name=盖亚的神智
+item.box.name=神秘箱子
+item.dungeonbox.name=地牢箱子
+item.pill.name=SCP-500
+item.manareader.name=魔力读取器
+
+# -DICE
+item.botania:dice20.name=D20
+item.emptydice.name=空骰子
+
+# -RELIC
+item.botania:excaliber.name=王者圣剑
+item.botania:excaliberfake.name=王者之剑
+item.botania:vrangerboots.name=V制式游侠靴
+item.botania:hestiachastity.name=赫斯提亚的贞洁
+item.botania:maxwelldemon.name=麦克斯韦的妖精
+item.botania:athenabless.name=雅典娜的庇佑
+item.botania:aphroditegrace.name=阿佛洛狄忒的恩宠
+item.botania:cronusphantom.name=柯罗诺斯的幻影
+item.botania:lokighostrick.name=洛基的鬼计
+item.botania:olympusguard.name=奥林匹斯的戍卫
+item.botania:hermestravelclothing.name=赫尔墨斯的旅行衣
+item.botania:cthulhueye.name=克苏鲁之眼
+item.botania:hermeswand.name=赫尔墨斯的旅行手杖
+item.botania:theseusship.name=特修斯之船
+item.botania:eternalslience.name=静籁永恒
+item.botania:valkyriecombatuniform.name=女武神作战服
+
+# -WEAPON
+item.phoenixblaster.name=凤凰冲击波
+item.tacticalshotgun.name=战术猎枪
+item.boomstick.name=Boomstick
+item.flintlock.name=燧发枪
+item.shotgun.name=猎枪
+item.pistol.name=手枪
+item.snowballlauncher.name=雪球发射器
+item.scissorbladepurple.name=太刀剪「紫」
+item.scissorbladered.name=太刀剪「红」
+item.botania:vhandgun_double.name=V制式手炮
+item.botania:vpowerbattleaxe.name=V制式动力战斧
+
+# —BULLET
+item.bulletexploding.name=高爆弹
+item.bulletgold.name=金弹
+item.bullethighvelocity.name=高速弹
+item.bulletmeteor.name=陨星弹
+item.bulletmusket.name=枪弹
+item.bulletsilver.name=银弹
+
+# -FOR DEVELOPER
+item.test.name=测试道具
+item.test.desc=仅作测试
+
+# LEXICON ENTRIES
+# -BASIC
+# -ADVANCEDMATERIAL
+botania.entry.advancedmaterial=高级材料
+botania.tagline.advancedmaterial=非常强大.
+botania.page.advancedmaterial0=解开额外的知识后,你将会 发现更多高级的材料. &1盖亚精华&0是击败盖亚守护者 III的象征,它蕴含着盖 亚守护者III的神力,但 没人知道为何&4神秘箱子&0中也 藏着这种材料.
+botania.page.advancedmaterial1=&1星光之力&0也是一种高级的材 料,要获得十分困难,&4D20&0的 某一面上便藏着它.同样地 ,&4神秘箱子&0里竟也有&1星光之 力&0.
+botania.page.advancedmaterial2=&1祈之共鸣&0是遗物分解后的结 晶体,充满着能量.利用这 种材料再配合上符文的力量 ,可以轻易地再构出你所想 要的遗物.如果你想得到&1祈 之共鸣&0,你需要&4古遗莲&0的力量.
+
+# --NIGHTMAREFUEL
+botania.entry.nightmarefuel=梦魇燃料
+botania.tagline.nightmarefuel=你内心深处的恐惧.
+botania.page.nightmarefuel0=一些怪物的身上可能携带着 &1梦魇燃料&0,这是一种非常稀 有而又令人畏惧的材料.它 的热值很高,但有传言凡是携 带过&1梦魇燃料&0的人都因厄运 降临而死了.
+
+# --TELEPORTPEARL
+botania.entry.teleportpearl=传送珍珠
+botania.tagline.teleportpearl=Oops.
+botania.page.teleportpearl0=&1传送珍珠&0与&4末影珍珠&0非常相 似.但是,它并不会对使用 者造成伤害.
+botania.page.teleportpearl1=注意六点钟方向.
+
+# --BLANKCARD
+botania.entry.blankcard=白卡
+botania.tagline.blankcard=游戏人生
+botania.page.blankcard0=尽管没有任何东西写在上面, &1白卡&0却闪耀着银色的火花 .也许拿着本&1植物魔法手册&0的 时候捡起&1白卡&0会发生些奇怪 的事情.
+botania.page.blankcard1=这是一个秘密.
+
+# --COSMETIC
+botania.entry.cosmetic=装饰饰品
+botania.tagline.cosmetic=A Bunny Can Go Savage
+botania.page.cosmetic0=仅仅只是为了好玩与装饰的 饰品,或许它们可能也有着 其他用途?
+botania.page.cosmetic1=So scare
+botania.page.cosmetic2=Concern
+botania.page.cosmetic3=What r you doing
+botania.page.cosmetic4=Wow
+
+# --PRISMATICSHARD
+botania.entry.prismaticshard=彩虹碎片
+botania.tagline.prismaticshard=全宇宙都爱.
+botania.page.prismaticshard0=非常稀有的一种碎片,其获 得途径非常少.而且由于其 用途广泛,所以是一种十分 罕贵的材料.
+
+# --PETAL
+botania.entry.petal=彼岸花
+botania.tagline.petal=炽灼的心!
+botania.page.petal0=也许&1彼岸花&0是世界上最稀有 的花,它只会出现在晚上, 并且太阳升起的瞬间就会凋 零,昙花一现的生命.一共 有3种&1彼岸花&0,分别是红色, 绿色和紫色.不言而喻,它 的花瓣非常有价值.如果你 想试着去找到一朵,我只能 祝你好运.
+
+# -WEAPON
+# --ANGELWAND
+botania.entry.angelwand=天使魔杖
+botania.tagline.angelwand=洁白无瑕.
+botania.page.angelwand0=对准实体使用&1天使魔杖&0可以 通过魔力快速地拉近你与其 的距离,可以用来追赶队友 及补刀敌人.
+botania.page.angelwand1=堕落天使.
+
+# --CORONACLAYMORE
+botania.entry.coronaclaymore=日冕重剑
+botania.tagline.coronaclaymore=赞美太阳.
+botania.page.coronaclaymore0=&1日冕重剑&0在攻击敌人时有概 率释放出&4盖亚胎动&0,对大范围 内敌人造成巨量伤害.
+
+# --DARKSWORD
+botania.entry.darksword=暗影刀
+botania.tagline.darksword=阴影之力
+botania.page.darksword0=使用&4梦魇燃料&0所制成的独特 的刀,在夜晚时将爆发出额 外的力量,可以造成更高的 伤害.
+botania.page.darksword1=夜幕降临.
+
+# --SCISSORBLADE
+botania.entry.scissorblade=太刀剪
+botania.tagline.scissorblade=巨大的剪刀.
+botania.page.scissorblade0=&1红太刀&0可以给敌人添加缓慢 状态,清除虚弱状态来造成 更高伤害.而&1紫太刀&0则刚好 相反,给敌人添加虚弱状态 ,清除缓慢状态来造成更高伤 害.
+botania.page.scissorblade1=
+botania.page.scissorblade2=
+
+# --ENCHANTMENT
+botania.entry.enchantment=附魔
+botania.tagline.enchantment=无穷无尽的知识就是我的力量.
+botania.page.enchantment0=解开了白卡的秘密之后,你 会发现附魔多了几种.&1盖亚 祝福&0可以减少你所使用的魔 力以及来自盖亚的伤害.&1神 恩&0可以大幅提高遗物的能力 ,但同时也会增加使用的代 价.而&1神刻&0则能够降低使用 的代价.不幸的是,神恩与 神刻并不对所有遗物都有效 果.
+botania.page.enchantment1=盖亚祝福
+botania.page.enchantment2=神恩
+botania.page.enchantment3=神刻
+
+# --KEY
+botania.entry.key=钥匙
+botania.tagline.key=通往成功的关键.
+botania.page.key0=一把古老而神秘的&1钥匙&0,也 许可以打开某些特殊的容器 .在一些遗迹里也许能发现 ,某些怪物也可以会携带.
+
+# --MYSTERYBOX
+botania.entry.mysterybox=神秘箱子
+botania.tagline.mysterybox=有趣.
+botania.page.mysterybox0=一个神秘的箱子,里面藏着 一些植物魔法师所追求的关 键材料,稀有的彩虹碎片也藏 在里面.但开启它还需要一 把&1钥匙&0.
+
+# --DUNGEONBOX
+botania.entry.dungeonbox=地牢箱子
+botania.tagline.dungeonbox=古代的机械.
+botania.page.dungeonbox0=从地牢中探索得到的箱子, 开启需要一把&1钥匙&0,据说里 面储藏着几件来自地牢的宝 物.
+
+# --MANAREADER
+botania.entry.manareader=魔力读取器
+botania.tagline.manareader=魔力会计.
+botania.page.manareader0=对准一个&4魔力池&0使用&1魔力读 取器&0,它就会精确地告诉你 魔力池中有多少魔力,魔力 池最多能储存多少魔力.传 闻使用一千次同个&1魔力读取 器&0会有神奇的事发生,但目 前为止还没有如此耐心的人 去尝试.
+botania.page.manareader1=这不科学.
+
+# --BULLET
+botania.entry.bullet=多种弹药
+botania.tagline.bullet=
+botania.page.bullet0=
+botania.page.bullet1=
+botania.page.bullet2=
+botania.page.bullet3=
+botania.page.bullet4=
+botania.page.bullet5=
+
+# --BASICGUN
+botania.entry.gunbase=基础枪械
+botania.tagline.gunbase=
+botania.page.gunbase0=
+botania.page.gunbase1=
+
+# --PHOENIXBLASTER
+botania.entry.phoenixblaster=凤凰冲击波
+botania.tagline.phoenixblaster=
+botania.page.phoenixblaster0=
+
+# --TACTICALSHOTGUN
+botania.entry.tacticalshotgun=战术猎枪
+botania.tagline.tacticalshotgun=
+botania.page.tacticalshotgun0=
+
+# --SNOWBALLCANNON
+botania.entry.snowballcannon=雪球发射器
+botania.tagline.snowballcannon=
+botania.page.snowballcannon0=
+
+# -GENERATING
+# --CANDYFLOWER
+botania.entry.candyflower=糖果花
+botania.page.candyflower0=甜品是&1糖果花&0在世界中最 喜欢的东西了 ,它非常乐意 接受你给的&1甜食&0.细细品味 甜品的过程中的那种幸福感 与满足感,能让&1糖果花&0产出 不少的&4魔力&0.而&1饼干&0,&1糖&0, &1蛋糕&0等都是它的最爱.当然 ,例如&4潘马斯婶婶&0所亲手做的 甜品,&1糖果花&0也非常地喜欢 .同时,越丰盛越美味的甜品 ,它产出的&4魔力&0也就越多.
+botania.page.candyflower1=与此同时值得注意的是,它 每吃掉一个甜品,都有很小 几率产出一个&1神秘箱子&0.
+botania.page.candyflower2=泛滥的爱.
+
+# --BLUEENCHANTRESS
+botania.entry.blueenchantress=蓝色妖姬
+botania.page.blueenchantress0=&1蓝色妖姬&0类似&1炽玫瑰&0与&1水绣 球&0,能吸收&1液态源质&0并转化 为大量&4魔力&0,并且速度很快 ,而且无须冷却.因此是一 朵效率非常高的产能花,想 必能成为植物魔法师的一个 不错的选择.
+botania.page.blueenchantress1=忧郁的一天.
+
+# --SUNSHINELILY
+botania.entry.sunshinelily=日耀百合
+botania.page.sunshinelily0=拥有着和&1太阳花&0一样的能力 ,能将阳光转化为&4魔力&0,但 是比起它有着更高的&4魔力&0产 出.但过程仍然显得十分缓 慢,不过只要几朵就能有可 观的效率了.
+botania.page.sunshinelily1=&1日耀百合&0拥有着更强大的生 命力,因此不会枯萎.作为 对价,它所需要的材料也就 显得更加昂贵,但很值得, 不是吗?但作为被动产能, 它依旧会因为周围的个体而 降低效率.
+botania.page.sunshinelily2=光与热.
+
+# --MOONLIGHTLILY
+botania.entry.moonlightlily=月光百合
+botania.page.moonlightlily0=它是&1日耀百合&0的另一面,能 够在黑夜中将月光转化为&4魔 力&0.它的效率也不比&1日耀百 合&0低,当然产出&4魔力&0的过程 也十分缓慢.
+botania.page.moonlightlily1=&1月光百合&0也同样拥有着强大 的生命力.作为对价,所需 要的材料也较为昂贵.同时 作为被动产能,它依旧会因 周围的个体而降低效率.
+botania.page.moonlightlily2=愚者的播种.
+
+# --GEMINIORCHID
+botania.entry.geminiorchid=双子兰
+botania.page.geminiorchid0=&1双子兰&0就像是一台温差发电 机.如果你在斜对角倒上一 桶岩浆,然后在另一个斜对 角倒上一桶水,它就会开始 产出魔力.两个方块的温度 差值越大,魔力产出也就越 快.
+botania.page.geminiorchid1=我就是力量的化身!
+
+# --OMINIVIOLET
+botania.entry.ominiviolet=全知槿
+botania.page.ominiviolet0=常言道,知识就是力量,因 此&1全知槿&0热爱读书.并且每 本它读过的书都会被转化为 &4魔力&0.顺带,如果你在它周 围摆放些&4书架&0,产出的&4魔力&0 将会更加可观.
+botania.page.ominiviolet1=我知万物.
+
+# --STONESIA
+botania.entry.stonesia=石中姬
+botania.page.stonesia0=&1石中姬&0可以将&4石头&0或&4圆石&0转 化为&4魔力&0的形式.如果你希 望它能变得更加效率,你可 以尝试把它种在地底下或者 是把石头换成矿石.矿石越 稀有,&4魔力&0产出越多.
+botania.page.stonesia1=不是石中剑.
+
+# --PYSCHOBLOOM
+botania.entry.pyschobloom=闹闹花
+botania.page.pyschobloom0=噪音是&1闹闹花&0所最喜欢的, 它可以将噪音转化为魔力. 因此它周围的生物越多,它 所产出的魔力也会越多.但 太多的噪音会使它癫狂.
+botania.page.pyschobloom1=没人可以通过这里.
+
+# --BELLFLOWER
+botania.entry.bellflower=风铃草
+botania.page.bellflower0=&1风铃草&0可以利用风的力量产 生魔力,因此你需要将它种 植在高空中,至少距离地面 40米高.同时你所种植的 地方最好是空旷的,这样风 力会更加强大.
+botania.page.bellflower1=进入新的世界,永不落后.
+
+# -FUNCTIONAL
+# --NECROFLEUR
+botania.entry.necrofleur=死之花
+botania.page.necrofleur0=&1死之花&0是死神的象征.它会 对周围的生物,除了玩家, 造成大量的伤害.此外,它 也会给它们增加一些负面 效果.
+botania.page.necrofleur1=午时已到.
+
+# --NUMERONDANDELIFE
+botania.entry.numerondandelife=源命英
+botania.page.numerondandelife0=站在&1源命英&0的旁边,你将会 非常快速地获得&1护盾值&0. 但也请注意,&1源命英&0必须放 置在&4X轴&0和&4Z轴&0都是&46的倍数&0 的地方,否则它会罢工.
+botania.page.numerondandelife1=请遵循基本法.
+
+# --WOODIENIA
+botania.entry.woodienia=伐木花
+botania.page.woodienia0=即是你给&1伐木花&0非常少量的 &4魔力&0,它也能非常迅速地砍 伐周围的&1原木&0并将它们以掉 落物形式出现.
+botania.page.woodienia1=每天一棵树,烦恼不再有.
+
+# --ICEBIRDIUM
+botania.entry.icebirdium=零鸟姬
+botania.page.icebirdium0=&1零鸟姬&0可以将其附近的&1水方 块&0冷冻成&1冰块&0,而且它所散 发出的寒气能够使周围的生 物变得迟缓.但不幸的是, 它还没聪明到能辨别出你的 地步.
+botania.page.icebirdium1=后天.
+
+# --NUMERONBALSAM
+botania.entry.numeronbalsam=源凤仙
+botania.page.numeronbalsam0=如火般燃烧的花朵.&1源凤仙&0 可以通过魔力流灼烧其周围 的生, 而对于玩家则会给 予防火效果并清除他们的负 面状态.
+botania.page.numeronbalsam1=怎么可能会后悔.
+
+# --JUDASVOW
+botania.entry.judasvow=犹大的誓约
+botania.page.judasvow0=一朵美丽的花.当&1犹大的 誓约&0被放置后,它会自动召 唤神圣长矛攻击周围的怪物 .神圣长矛会在接触时引发 一场爆炸并使目标缓慢下来 .但是它的花期十分短暂, 因此几秒过后它就会凋零并 重新变回物品形式.
+botania.page.judasvow1=我可没时间陪你玩游戏.
+
+# --VOLATILILY
+botania.entry.volatilily=波动百合
+botania.page.volatilily0=将它放在水池上方后,&1波动 百合&0就会开始钓鱼.它可以 钓上各种各样的鱼,令人讨 厌的垃圾,神秘的宝藏等等 .提供一个红石信号可以使它 停止工作.
+botania.page.volatilily1=你不能以貌取人.
+
+# --DIPLOPBAMBOO
+botania.entry.diplopbamboo=复视笋
+botania.page.diplopbamboo0=仅仅只是一个秘密.
+botania.page.diplopbamboo1=不会再依靠任何人.
+
+# --INFERNOIDISY
+botania.entry.infernoidisy=狱火菊
+botania.page.infernoidisy0=&1狱火菊&0的能力与&1白雏菊&0恰恰 相反.举个例子,&1白雏菊&0能 够将地狱岩转化为圆石,而 &1狱火菊&0则能把圆石转化为地 狱岩.
+botania.page.infernoidisy1=奔流的热血.
+
+# --LAUNCHISH
+botania.entry.launchish=弹射草
+botania.page.launchish0=&1弹射草&0可以利用魔力将上方 的生物向上发射出去.这朵 花似乎没有其他的作用了.
+botania.page.launchish1=Fire in the hole.
+
+# --ANNOYOBLOOM
+botania.entry.annoyobloom=吵吵花
+botania.page.annoyobloom0=&1吵吵花&0可以运用魔力流来制 造出烟花火箭并将它们发射 出去,期待着漫天的烟花吧 !(PS:注意别吵到邻居.)
+botania.page.annoyobloom1=移动或死亡!
+
+# --VOIDUIM
+botania.entry.voiduim=虚空花
+botania.page.voiduim0=&1虚空花&0可以使用虚空的力量 将魔力变为矿石,但它也有 着苛刻的生长环境要求: 它必须种在基岩上方2格内并 且能见到阳光.
+botania.page.voiduim1=Re:从零开始的异世界生活.
+
+# --ARTIFACONIA
+botania.entry.artifaconia=古遗莲
+botania.page.artifaconia0=&1古遗莲&0掌握着上古之神的力 量,它可以利用魔力把一件遗物 进行二次绑定给附近的一个 玩家.如果给它一个15格的 红石信号,那么它将会去拆 解能够拆解的遗物.
+botania.page.artifaconia1=这种事绝对很奇怪啊.
+
+# --MANALINKUIM
+botania.entry.manalinkuim=魔链花
+botania.page.manalinkuim0=&1魔链花&0是操纵魔力流的大师 .它可以从一个魔力池中抽 取魔力并将它们传输到一个 魔力发射器里.因此它可以 用来进行远距离的魔力传输 .
+botania.page.manalinkuim1=汇集的光芒.
+
+# -OTHERS
+# --INFINITYMANA
+botania.entry.infinitymana=无限魔力
+
+# --PICKUP
+botania.entry.pickup=掉落物
+botania.tagline.pickup=这是魔法!
+botania.page.pickup0=你会发现当你杀死怪物时它 们会掉落些奇怪的结晶,捡 起这些不同的结晶会有不同 的效果.捡起护盾会提供你 少许护盾值,生命结晶会恢 复少许生命值,而魔力结晶 则会使你获得少许魔力.
+
+# --SHIELD
+botania.entry.shield=护盾
+botania.tagline.shield=无駄无駄无駄无駄无駄无駄无駄
+botania.page.shield0=&1护盾值&0优先于生命值,它可 以用来吸收伤害.&1护盾值&0的 上限等同于你的生命值上限 .当&1护盾值&0被削减时,它将会 击退周围的怪物并清除弹射 物.
+
+# -RELICS
+# --HESTIACHASTITY
+botania.entry.hestiachastity=赫斯提亚的贞洁
+botania.tagline.hestiachastity=盖亚的遗物
+botania.page.hestiachastity0=当玩家装备有&1赫斯提亚的贞 洁&0,受伤时会召唤出一道白色 的魔力风暴自动攻击周围的 敌人.
+
+# --MAXWELLDEMON
+botania.entry.maxwelldemon=麦克斯韦的妖精
+botania.tagline.maxwelldemon=盖亚的遗物
+botania.page.maxwelldemon0=消耗魔力饮下&1麦克斯韦的妖 精&0后可以获得短暂时间的高 伤抗性,并且可以提高一定 的攻击力.同时在没有伤害吸 收的情况下获得5格伤害吸收.
+
+# --ATHENABLESS
+botania.entry.athenabless=雅典娜的庇佑
+botania.tagline.athenabless=盖亚的遗物
+botania.page.athenabless0=佩戴&1雅典娜的庇佑&0后,攻击敌人 的同时可以将伤害部分转化 为&4护盾值&0.如果还装备着&1赫尔 墨斯的旅行衣&0,转化比率也会 提高.
+
+# --APHRODITEGRACE
+botania.entry.aphroditegrace=阿佛洛狄忒的恩宠
+botania.tagline.aphroditegrace=盖亚的遗物
+botania.page.aphroditegrace0=装备&1阿佛洛狄忒的恩宠后&0, 玩家受到一定量伤害时可以 将该伤害部分转化为护盾值 ,并且清除身上的一个负面状 态.
+
+# --DICE20
+botania.entry.dice20=D20
+botania.tagline.dice20=命运一掷.
+botania.page.dice200=击败&4盖亚守护者III&0的战利品 ,使用后可以获得随机一件遗物 .这个骰子一共有20个面,因此 推测可能有20件遗物.
+
+# --EXCALIBER
+botania.entry.excaliber=王者圣剑
+botania.tagline.excaliber=胜利与誓约.
+botania.page.excaliber0=&1王者之剑&0激活后的完全态, 拥有着不俗的攻击力.同时在 挥舞时能够发射出金色的魔 力光束自动追踪攻击敌人.持 有时还能大幅提高移动速度.
+
+# --EXCALIBERFAKE
+botania.entry.excaliberfake=王者之剑
+botania.tagline.excaliberfake=消失的光芒.
+botania.page.excaliberfake0=黯淡的&1王者之剑&0,持有时能 够提高移动速度.但这并非 其全部的力量,隐藏的力量 还有待玩家去激活.
+
+# --VPOWERBATTLEAXE
+botania.entry.vpowerbattleaxe=V制式动力战斧
+botania.tagline.vpowerbattleaxe=The 300!
+botania.page.vpowerbattleaxe0=有着极高的伤害但显得十分 笨重,持有时行动会变得缓 慢.
+
+# --VRANGERBOOTS
+botania.entry.vrangerboots=V制式游侠靴
+botania.tagline.vrangerboots=盖亚的遗物
+botania.page.vrangerboots0=装备&1V制式游侠靴&0后,玩家的跳 跃能力将得到提升,并且免 疫摔落伤害.同时在下落时 下蹲可以进行滑行.
+
+# --VHANDGUN
+botania.entry.vhandgun=V制式手炮
+botania.tagline.vhandgun=魔力,魔力,魔力
+botania.page.vhandgun0=使用时能高频率发射出魔力 光束并自动追踪攻击周围的敌 人,但伤害并不高.
+
+# --CRONUSPHANTOM
+botania.entry.cronusphantom=柯罗诺斯的幻影
+botania.tagline.cronusphantom=盖亚的遗物
+botania.page.cronusphantom0=佩戴&1柯罗诺斯的幻影&0后,玩家 每次攻击都将附带一层&4痛觉 残留&0状态,该状态将层层叠 加,每层都会提高被影响者所 受到的伤害.
+
+# --CTHULHUEYE
+botania.entry.cthulhueye=克苏鲁之眼
+botania.tagline.cthulhueye=盖亚的遗物
+botania.page.cthulhueye0=可以用来标记坐标点,消耗 大量魔力可以将使用者传送 至标记点,至多可以标记4个 .每次使用后都会有一小段冷 却时间,如果强行使用将会受 到来自遗物的惩罚.
+
+# --ETERNALSLIENCE
+botania.entry.eternalslience=静籁永恒
+botania.tagline.eternalslience=盖亚的遗物
+botania.page.eternalslience0=&1静籁永恒&0一共有着2种模式 ,可以通过蹲下使用来切换.在 &4永恒模式&0下,它将会以极快的 速度产出魔力,但这份魔力 并不能导出.在&4静籁模式&0下 ,它会使玩家脚底下的水结 冰,岩浆变黑曜石,还会清 除火焰和雪堆.
+
+# --HERMESTRAVELCLOTHING
+botania.entry.hermestravelclothing=赫尔墨斯的旅行衣
+botania.tagline.hermestravelclothing=盖亚的遗物
+botania.page.hermestravelclothing0=&1赫尔墨斯的旅行衣&0本身并没 有什么特殊的能力,装备者 有小概率闪避攻击.但它能 够与其他的遗物产生共鸣,迸 发出更强的力量.
+
+# --HERMESWAND
+botania.entry.hermestravelwand=赫尔墨斯的旅行手杖
+botania.tagline.hermestravelwand=盖亚的遗物
+botania.page.hermestravelwand0=使用&1赫尔墨斯的旅行手杖&0可以 消耗魔力发射出一个传送珍 珠,如果使用者还装备着&1赫 尔墨斯的旅行衣&0,那么可以 不消耗魔力.
+
+# --LOKIGHOSTRICK
+botania.entry.lokighostrick=洛基的鬼计
+botania.tagline.lokighostrick=盖亚的遗物
+botania.page.lokighostrick0=佩带&1洛基的鬼计&0后,玩家可 以免疫绝大多数奇怪的伤害 来源,例如仙人掌和遗物. 同时佩戴者在攻击时有概率 伤害翻倍.
+
+# --OLYMPUSGUARD
+botania.entry.olympusguard=奥林匹斯的戍卫
+botania.tagline.olympusguard=盖亚的遗物
+botania.page.olympusguard0=集合了3种戒指的神力,&1奥林 匹斯的戍卫&0拥有着3种戒指 的能力.与诸神之戒不同,它 显得更加稳定.
+
+# --THESEUSSHIP
+botania.entry.theseusship=特修斯之船
+botania.tagline.theseusship=盖亚的遗物
+botania.page.theseusship0=永恒不灭的&1特修斯之船&0一共 有着4种模式,可以通过蹲 下使用来切换.特修斯之船 使用时能够射出短距离的魔 力光束,不同模式下有着不同 效果.
+
+# --VALKYRIECOMBATUNIFORM
+botania.entry.valkyriecombatsuit=女武神作战服
+botania.tagline.valkyriecombatsuit=盖亚的遗物
+botania.page.valkyriecombatsuit0=装备&1女武神作战服&0后,当装备 者周围没有敌人时,将会非 常快速地获得&4护盾值&0.而当装 备者周围敌人超过2个时,装 备者将会获得速度II效果.
+
+# --GAIA
+botania.entry.gaia3=盖亚守护者III
+botania.page.gaia30=通过全新的材料,将唤醒更为 强大的&1盖亚守护者III&0. 其战 斗力与机动性都比原来要增 强许多,并且由于凝聚着大 量魔力的神智的关系,&1盖亚 守护者III&0掌握着许多不同 种能力,因此要格外小心.
+botania.page.gaia31=作为一个全新的敌人,&1盖亚守 护者III&0的奖励也极为丰富. 如果你想召唤它,你需要用到 &4盖亚的神智&0来引导盖亚仪式 .
+botania.page.gaia33=盖亚仪式
+botania.page.gaia32=同时还值得注意的是,&1盖亚 守护者III&0的能力并不仅仅 如此,它似乎还隐藏着真实 力量. 传说拿着植物魔法手册时捡起D20能够解开遗物背后的秘密.
+
+#FLOWER NAMES
+# -GENERATING
+tile.botania:flower.blueenchantress.name=蓝色妖姬
+tile.botania:flower.blueenchantress.reference=蓝色爱好者
+botania.tagline.blueenchantress=源自源质的魔力
+
+tile.botania:flower.candyflower.name=糖果花
+tile.botania:flower.candyflower.reference=最甜蜜的爱
+botania.tagline.candyflower=甜食爱好者
+
+tile.botania:flower.sunshinelily.name=日耀百合
+tile.botania:flower.sunshinelily.reference=愿光芒能治愈并指引你
+botania.tagline.sunshinelily=太阳骑士
+
+tile.botania:flower.moonlightlily.name=月光百合
+tile.botania:flower.moonlightlily.reference=愿你能找到所有失去的东西
+botania.tagline.moonlightlily=月亮祭司
+
+tile.botania:flower.omniviolet.name=全知槿
+tile.botania:flower.omniviolet.reference=Need not to know
+botania.tagline.ominiviolet=普罗维登斯之眼
+
+tile.botania:flower.geminiorchid.name=双子兰
+tile.botania:flower.geminiorchid.reference=Another
+botania.tagline.geminiorchid=我爱着你,我恨着你.
+
+tile.botania:flower.pyschobloom.name=闹闹花
+tile.botania:flower.pyschobloom.reference=它只是太笨重了.
+botania.tagline.pyschobloom=上古之神的低语.
+
+tile.botania:flower.stonesia.name=石中姬
+tile.botania:flower.stonesia.reference=石头炼成
+botania.tagline.stonesia=这是石中剑吗?
+
+tile.botania:flower.bellflower.name=风铃草
+tile.botania:flower.bellflower.reference=随风而逝
+botania.tagline.bellflower=风带来力量与魔力.
+
+# -FUNCTIONAL
+tile.botania:flower.numerondandelife.name=源命英
+tile.botania:flower.numerondandelife.reference=Too young, Too simple
+botania.tagline.numerondandelife=I am Angry
+
+tile.botania:flower.necrofleur.name=死之花
+tile.botania:flower.necrofleur.reference=死亡是唯一的解药
+botania.tagline.necrofleur=我会为你的死亡哀悼
+
+tile.botania:flower.woodienia.name=伐木花
+tile.botania:flower.woodienia.reference=满月的诅咒
+botania.tagline.woodienia=伍迪的幸运铁斧
+
+tile.botania:flower.artifaconia.name=古遗莲
+tile.botania:flower.artifaconia.reference=禁忌的秘密
+botania.tagline.artifaconia=博物馆奇妙夜
+
+tile.botania:flower.volatilily.name=波动百合
+tile.botania:flower.volatilily.reference=我的内心毫无波动,甚至还想笑
+botania.tagline.volatilily=愿者上钩
+
+tile.botania:flower.icebirdium.name=零鸟姬
+tile.botania:flower.icebirdium.reference=你想堆个雪人吗?
+botania.tagline.icebirdium=你为什么会这么熟练啊
+
+tile.botania:flower.numeronbalsam.name=源凤仙
+tile.botania:flower.numeronbalsam.reference=让火焰净化一切
+botania.tagline.numeronbalsam=神圣之火燃烧着我的战锤
+
+tile.botania:flower.judasvow.name=犹大的誓约
+tile.botania:flower.judasvow.reference=我的荣幸
+botania.tagline.judasvow=为了正义
+
+tile.botania:flower.voiduim.name=虚空花
+tile.botania:flower.voiduim.reference=我来自虚空
+botania.tagline.voiduim=炼狱的泛滥.
+
+tile.botania:flower.diplopbamboo.name=复视笋
+tile.botania:flower.diplopbamboo.reference=无限
+botania.tagline.diplopbamboo=完全一样.
+
+tile.botania:flower.infernoidisy.name=狱火菊
+tile.botania:flower.infernoidisy.reference=我想变成红色
+botania.tagline.infernoidisy=炼狱的消华.
+
+tile.botania:flower.launchish.name=弹射草
+tile.botania:flower.launchish.reference=弹射起步
+botania.tagline.launchish=无人深空.
+
+tile.botania:flower.annoyobloom.name=吵吵花
+tile.botania:flower.annoyobloom.reference=你好,你好,你好
+botania.tagline.annoyobloom=你好——!!
+
+tile.botania:flower.manalinkuim.name=魔链花
+tile.botania:flower.manalinkuim.reference=美味的魔力
+botania.tagline.manalinkuim=Bigger and Bigger.
+
+#ACHIEVEMENTS
+# -RELICS
+achievement.extrabotany:aphroditegrace=Love & Peace
+achievement.extrabotany:aphroditegrace.desc=获得战利品:阿佛洛狄忒的恩宠
+achievement.extrabotany:dice20=Reroll you destiny
+achievement.extrabotany:dice20.desc=获得D20!
+achievement.extrabotany:athenabless=白金ディスコ
+achievement.extrabotany:athenabless.desc=获得战利品:雅典娜的庇佑
+achievement.extrabotany:excaliber=圣光照耀众生
+achievement.extrabotany:excaliber.desc=获得王者圣剑!
+achievement.extrabotany:excaliberfake=信仰圣光吧
+achievement.extrabotany:excaliberfake.desc=获得战利品:王者之剑
+achievement.extrabotany:hestiachastity=Ooo! Shiny!
+achievement.extrabotany:hestiachastity.desc=获得战利品:赫斯提亚的贞洁
+achievement.extrabotany:maxwelldemon=Heart Breaker
+achievement.extrabotany:maxwelldemon.desc=获得战利品:麦克斯韦的妖精
+achievement.extrabotany:vpowerbattleaxe=You Can Do It!
+achievement.extrabotany:vpowerbattleaxe.desc=获得V制式动力战斧
+achievement.extrabotany:vrangerboots=Lucky Break
+achievement.extrabotany:vrangerboots.desc=获得战利品:V制式游侠靴
+achievement.extrabotany:vhandgun_double=Matching Attire
+achievement.extrabotany:vhandgun_double.desc=获得V制式手炮
+achievement.extrabotany:cronusphantom=Star Power
+achievement.extrabotany:cronusphantom.desc=获得战利品:柯罗诺斯的幻影
+achievement.extrabotany:hermestravelclothing=Mastermind
+achievement.extrabotany:hermestravelclothing.desc=获得战利品:赫尔墨斯的旅行衣
+achievement.extrabotany:phoenixblaster=Smashing, Poppet!
+achievement.extrabotany:phoenixblaster.desc=获得凤凰冲击波
+achievement.extrabotany:snowballlauncher=Sting Operation
+achievement.extrabotany:snowballlauncher.desc=获得雪球发射器
+achievement.extrabotany:tacticalshotgun=Hold on Tight!
+achievement.extrabotany:tacticalshotgun.desc=获得战术猎枪
+achievement.extrabotany:olympusguard=Dungeon Heist
+achievement.extrabotany:olympusguard.desc=获得奥斯匹林的戍卫
+achievement.extrabotany:cthulhueye=Eye on You
+achievement.extrabotany:cthulhueye.desc=获得战利品:克苏鲁之眼
+achievement.extrabotany:hermeswand=Worm Fodder
+achievement.extrabotany:hermeswand.desc=获得战利品:赫尔墨斯的旅行手杖
+achievement.extrabotany:theseusship=Miner for Fire
+achievement.extrabotany:theseusship.desc=获得战利品:特修斯之船
+achievement.extrabotany:valkyriecombatuniform=Head in the Clouds
+achievement.extrabotany:valkyriecombatuniform.desc=获得女武神作战服
+achievement.extrabotany:coronaclaymore=Still Hungry
+achievement.extrabotany:coronaclaymore.desc=获得日冕重剑
+achievement.extrabotany:eternalslience=Photosynthesis
+achievement.extrabotany:eternalslience.desc=获得静籁永恒
+achievement.extrabotany:lokighostrick=The Great Southern Plantkill
+achievement.extrabotany:lokighostrick.desc=获得战利品:洛基的鬼计
+achievement.extrabotany:angelwand=Extra Shiny!
+achievement.extrabotany:angelwand.desc=获得天使魔杖
+
+# -GAIA
+achievement.extrabotany:gaia_kill=黎明杀机
+achievement.extrabotany:gaia_kill.desc=击败盖亚守护者III!
+achievement.extrabotany:gaia_noarmor=英雄不朽!
+achievement.extrabotany:gaia_noarmor.desc=战斗从头至尾不穿任何护甲击杀盖亚守护者III
+achievement.extrabotany:gaia_dark=在这停顿
+achievement.extrabotany:gaia_dark.desc=击败黑暗盖亚守护者III!
+achievement.extrabotany:gaia_darknoarmor=天降正义
+achievement.extrabotany:gaia_darknoarmor.desc=战斗从头至尾不穿任何护甲击杀黑暗盖亚守护者III
+
+# -FLOWERS
+achievement.extrabotany:annoyobloom=脳浆炸裂ガール
+achievement.extrabotany:annoyobloom.desc=在花药台制作一朵吵吵花
+achievement.extrabotany:artifaconia=Undead enemy
+achievement.extrabotany:artifaconia.desc=在花药台制作一朵古遗莲
+achievement.extrabotany:diplopbamboo=Weekender Girl
+achievement.extrabotany:diplopbamboo.desc=在花药台制作一朵复视笋
+achievement.extrabotany:icebirdium=Nyan Cat
+achievement.extrabotany:icebirdium.desc=在花药台制作一朵零鸟姬
+achievement.extrabotany:launchish=紙飛行機
+achievement.extrabotany:launchish.desc=在花药台制作一朵弹射草
+achievement.extrabotany:necrofleur=死吧,死吧,死吧.
+achievement.extrabotany:necrofleur.desc=在花药台制作一朵死之花
+achievement.extrabotany:numeronbalsam=二律背反
+achievement.extrabotany:numeronbalsam.desc=在花药台制作一朵源凤仙
+achievement.extrabotany:numerondandelife=Bacterial Contamination
+achievement.extrabotany:numerondandelife.desc=在花药台制作一朵源命英
+achievement.extrabotany:voiduim=Ticket To Write
+achievement.extrabotany:voiduim.desc=在花药台制作一朵虚空花
+achievement.extrabotany:volatilily=Twinkle World
+achievement.extrabotany:volatilily.desc=在花药台制作一朵波动百合
+achievement.extrabotany:woodienia=The Naturalist
+achievement.extrabotany:woodienia.desc=在花药台制作一朵伐木花
+achievement.extrabotany:blueenchantress=白い雪のプリンセスは
+achievement.extrabotany:blueenchantress.desc=在花药台制作一朵蓝色妖姬
+achievement.extrabotany:candyflower=とても痛い痛がりたい
+achievement.extrabotany:candyflower.desc=在花药台制作一朵糖果花
+achievement.extrabotany:geminiorchid=幸せになれる隠しコマンドがあるらしい
+achievement.extrabotany:geminiorchid.desc=在花药台制作一朵双子兰
+achievement.extrabotany:moonlightlily=Blessing
+achievement.extrabotany:moonlightlily.desc=在花药台制作一朵月光百合
+achievement.extrabotany:omniviolet=RIP=RELEASE
+achievement.extrabotany:ominiviolet.desc=在花药台制作一朵全知槿
+achievement.extrabotany:pyschobloom=Sweet Devil
+achievement.extrabotany:pyschobloom.desc=在花药台制作一朵闹闹花
+achievement.extrabotany:stonesia=ネトゲ廃人シュプレヒコール
+achievement.extrabotany:stonesia.desc=在花药台制作一朵石中姬
+achievement.extrabotany:sunshinelily=右肩の蝶
+achievement.extrabotany:sunshinelily.desc=在花药台制作一朵日耀百合
+achievement.extrabotany:infernoidisy=悪食娘コンチータ
+achievement.extrabotany:infernoidisy.desc=在花药台制作一朵狱火菊
+achievement.extrabotany:judasvow=erase or zero
+achievement.extrabotany:judasvow.desc=在花药台制作一朵犹大的誓约
+achievement.extrabotany:manalinkuim=Last Night,Good Night
+achievement.extrabotany:manalinkuim.desc=在花药台制作一朵魔链花
+
+# -OTHERS
+achievement.extrabotany:blankcard=白色相簿
+achievement.extrabotany:blankcard.desc=解开白卡的秘密!
+achievement.extrabotany:manareader=千本樱
+achievement.extrabotany:manareader.desc=使用魔力读取器超过1000次!
+
+#ENCHANTMENT
+enchantment.gaiablessing=盖亚祝福
+enchantment.divinefavor=神恩
+enchantment.divinemark=神刻
+
+#COMMANDS
+commands.ExtraBotany.getShieldAmount.desc=/getShieldAmount [玩家]
+commands.ExtraBotany.getShieldAmount.success=玩家 %1$s 现在持有护盾值为 %2$s .
+commands.ExtraBotany.setShieldAmount.desc=/setShieldAmount [玩家] [数值]
+commands.ExtraBotany.setShieldAmount.success=设置成功! 玩家 %1$s 现在持有护盾值为 %2$s .
+commands.ExtraBotany.addShieldAmount.desc=/addShieldAmount [玩家] [数值]
+commands.ExtraBotany.addShieldAmount.success=添加成功! 玩家 %1$s 现在持有护盾值为 %2$s .
+
+#CONFIG
+config.ExtraBotany.extraShieldAmount.desc=额外的护盾上限.
+config.ExtraBotany.ench.desc=附魔ID.
+config.ExtraBotany.efficiencySunshinelily.desc=日耀百合的产能效率.
+config.ExtraBotany.efficiencyMoonlightlily.desc=月光百合的产能效率.
+config.ExtraBotany.efficiencyBlueenchantress.desc=蓝色妖姬的产能效率.
+config.ExtraBotany.efficiencyCandyflower.desc=糖果花的产能效率.
+config.ExtraBotany.efficiencyGeminiorchid.desc=双子兰的产能效率.
+config.ExtraBotany.efficiencyOminiviolet.desc=全知槿的产能效率.
+config.ExtraBotany.efficiencyPyschobloom.desc=闹闹花的产能效率.
+config.ExtraBotany.efficiencyStonesia.desc=石中姬的产能效率.
+config.ExtraBotany.pyschobloomMax.desc=闹闹花的最大产能效率.
+config.ExtraBotany.disableShieldRender.desc=是否取消护盾特效渲染,设置为true来取消.
+config.ExtraBotany.disableEasterEgg.desc=是否取消彩蛋,设置为true来取消.
+config.ExtraBotany.potion.desc=药水ID.
+config.ExtraBotany.disableShieldDisplay.desc=是否取消护盾值显示,设置为true来取消.
+config.ExtraBotany.shieldDisplayX.desc=如果有需求,可以用来改变护盾值显示的X坐标.
+config.ExtraBotany.shieldDisplayY.desc=如果有需求,可以用来改变护盾值显示的Y坐标.
+config.ExtraBotany.efficiencyBellflower.desc=风铃草的产能效率.
+config.ExtraBotany.enableDiplopbamboo.desc=是否启用复视笋的合成表,设置为true来启用.
+config.ExtraBotany.enableGuns.desc=是否启用枪械,设置为true来启用.
+
+#NEI SUPPORT
+extrabotany.nei.infernoidisy=狱火菊
+extrabotany.nei.stonesia=石中姬
