@@ -1,4 +1,4 @@
-                                   # ExtraBotany-GTNH
+# ExtraBotany-GTNH
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.7.10-green.svg)](https://www.minecraft.net/)
 [![Forge](https://img.shields.io/badge/Forge-10.13.4.1614-orange.svg)](https://files.minecraftforge.net/)
@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="back/ExtraBotany.png?raw=true" alt="Magia Naturalis Icon" width="1000">
+  <img src="back/ExtraBotany.png?raw=true" alt="ExtraBotany Icon" width="1000">
 </p>
 
 ---
