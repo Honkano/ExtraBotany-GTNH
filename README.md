@@ -1,4 +1,4 @@
-# ExtraBotany-GTNH
+                                   # ExtraBotany-GTNH
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.7.10-green.svg)](https://www.minecraft.net/)
 [![Forge](https://img.shields.io/badge/Forge-10.13.4.1614-orange.svg)](https://files.minecraftforge.net/)
@@ -7,6 +7,12 @@
 
 > **A revived and GTNH-maintained edition of ExtraBotany.**
 > **额外植物学 —— GTNH 维护复活版**
+
+---
+
+<p align="center">
+  <img src="back/ExtraBotany.png?raw=true" alt="Magia Naturalis Icon" width="1000">
+</p>
 
 ---
 
@@ -543,4 +549,4 @@ Botania (GTNH): https://github.com/GTNewHorizons/Botania
 
 GTNH 官网 / GTNH Homepage: https://gtnewhorizons.com/
 
-<p align="center"> <i>「这朵花，只为你而开。」</i><br> <i>"This flower blooms only for you."</i> </p><p align="center"> <i>—— For Meteor, the original author.</i><br> <i>—— 献给 Meteor，永远的原作者。</i> </p> ```
+「这朵花，只为你而开。」"This flower blooms only for you."—— For Meteor, the original author—— 献给 Meteor，永远的原作者 ```
